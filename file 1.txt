@@ -1,2 +1,2 @@
 This is my project plane 
-sql ,kj
+sql ,kj git log
